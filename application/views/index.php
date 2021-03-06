@@ -22,7 +22,7 @@
       <div class="col-md-12">
         <center>
           <div class="card">
-            <div class="card-body">
+            <!-- <div class="card-body">
               <div class="row">
                 <div class="col-md-12">
                   <div>
@@ -33,12 +33,10 @@
                       <h2 style="font-family: 'Times New Roman', Times, serif;"><b>SMKS PGRI PAKISAJI</b></h2>
                       <p></p>
                     </center>
-
                   </div>
-
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
         </center>
       </div>
