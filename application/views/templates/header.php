@@ -39,7 +39,7 @@
           <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-bars"></i></a>
         </li>
         <li class="nav-item d-none d-sm-inline-block">
-          <a href="Welcome" class="nav-link">DashBoard</a>
+          <a href="Welcome" class="nav-link">Dashboard</a>
         </li>
         <?php if ($this->session->userdata('level') == 'siswa') { ?>
           <ul class="navbar-nav ml-auto">
@@ -51,7 +51,7 @@
         <?php } ?>
         <ul class="navbar-nav ml-auto">
           <li class="nav-item d-none d-sm-inline-block">
-            <a href="<?= base_url('Login/logout') ?>" class="nav-link">Log Out</a>
+            <a href="<?= base_url('Login/logout') ?>" class="nav-link">Logout</a>
           </li>
         </ul>
 
